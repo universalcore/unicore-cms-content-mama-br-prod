@@ -1,14 +1,14 @@
 {
   "subtitle": "Portuguese baby", 
   "uuid": "9bd14ebe21394b81bc2a1bd8a850ba85", 
-  "language": "por_BR", 
+  "language": "por_PT", 
   "title": "Beb\u00ea", 
   "image": null, 
   "_version": {
     "package_version": "1.0.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "slug": "bebe", 
