@@ -1,0 +1,29 @@
+{
+  "subtitle": "Should I eat differently?", 
+  "description": "Voc\u00ea precisa de comidas de todas as cores", 
+  "language": "eng_GB", 
+  "title": "Devo me alimentar diferente?", 
+  "primary_category": "ac28a6b0b1bf4555a431fa585788d1eb", 
+  "created_at": "2015-05-28T11:52:11.032023+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-05-28T11:52:11.032207+00:00", 
+  "_version": {
+    "package_version": "1.2.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Criado pelo BabyCenter\r\n\r\nAgora que voc\u00ea est\u00e1 gr\u00e1vida, \u00e9 importante tentar comer bem para que seu beb\u00ea cres\u00e7a saud\u00e1vel. Voc\u00ea e seu beb\u00ea precisam de muitos alimentos diferentes. \r\n\r\nUma forma f\u00e1cil de lembrar \u00e9 procurando comidas de cores diferentes! \r\n\r\nVoc\u00ea pode falar com sua fam\u00edlia sobre os tipos de comidas que voc\u00ea precisa. \r\n\r\nTente comer todos os dias um pouco de cada um destes alimentos: \r\n \r\n\u2022\t**Frutas, verduras e legumes**. Protegem seu beb\u00ea de problemas cong\u00eanitos.  \r\n\r\n\u2022\t**Farin\u00e1ceos**. Incluem p\u00e3o, arroz, massa e batata. Este tipo de comida d\u00e1 energia.\r\n\r\n\u2022\t**Alimentos ricos em prote\u00edna**. Incluem ovos, verduras verde escuras, castanhas e nozes, frango, peixe e carne. Estas comidas cont\u00e9m o material que o corpo precisa para construir tecidos e \u00f3rg\u00e3os.\r\n\r\n\u2022\t**Alimentos ricos em c\u00e1lcio e latic\u00ednios (leite e derivados)**. Incluem leite, queijo e br\u00f3colis. Estas comidas ajudam o beb\u00ea a ter ossos fortes. \r\n", 
+  "source": "f88b27a0e31f48cfaefe6ae8eb61391b", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "devo-me-alimentar-diferente", 
+  "uuid": "f9ffe33c7fbc463ea07440fbbd57e206"
+}
