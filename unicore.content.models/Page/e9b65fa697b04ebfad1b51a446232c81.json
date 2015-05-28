@@ -1,0 +1,29 @@
+{
+  "subtitle": "Who shall I tell?", 
+  "description": "Conte para seu m\u00e9dico", 
+  "language": "por_BR", 
+  "title": "A quem devo contar?", 
+  "primary_category": "ac28a6b0b1bf4555a431fa585788d1eb", 
+  "created_at": "2015-05-28T08:26:57.627922+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-05-28T08:26:57.628313+00:00", 
+  "_version": {
+    "package_version": "1.2.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Criado pelo BabyCenter\r\n\r\nNo in\u00edcio, algumas mulheres querem manter a gravidez em segredo. \r\n\r\nMas voc\u00ea pode contar para o seu m\u00e9dico, sem precisar contar para mais ningu\u00e9m. \r\n\r\nContar para o m\u00e9dico que voc\u00ea est\u00e1 gr\u00e1vida \u00e9 bom para voc\u00ea e para seu beb\u00ea. Voc\u00ea ter\u00e1 menos problemas se receber os cuidados necess\u00e1rios desde o in\u00edcio.  \r\n\r\nO m\u00e9dico pode fazer exames para ver se voc\u00ea e o beb\u00ea est\u00e3o bem. Voc\u00ea pode fazer exames de sangue e urina, e tamb\u00e9m os testes de HIV e s\u00edfilis. \r\n\r\nSe voc\u00ea sabe que tem o v\u00edrus HIV, deve conseguir medicamentos gr\u00e1tis para evitar que o beb\u00ea seja soropositivo. \r\n\r\nMesmo que voc\u00ea se sinta bem, fa\u00e7a exames m\u00e9dicos regularmente para que voc\u00ea e o beb\u00ea possam continuar saud\u00e1veis.   \r\n", 
+  "source": "13f51172cb624c6b915ab04db0877238", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "quem-devo-contar", 
+  "uuid": "e9b65fa697b04ebfad1b51a446232c81"
+}
