@@ -1,0 +1,29 @@
+{
+  "subtitle": "When will my baby crawl?", 
+  "description": "Quando ele tiver de 6 a 9 meses", 
+  "language": "por_BR", 
+  "title": "Quando o meu beb\u00ea vai engatinhar?", 
+  "primary_category": "9bd14ebe21394b81bc2a1bd8a850ba85", 
+  "created_at": "2015-05-29T14:41:40.457060+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-05-29T14:41:40.457305+00:00", 
+  "_version": {
+    "package_version": "1.2.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": " Creado pelo BabyCenter\r\n\r\nDepois de sentar, engatinhar \u00e9 o pr\u00f3ximo passo importante no desenvolvimento do beb\u00ea. Normalmente, mas n\u00e3o sempre, engatinhar tamb\u00e9m \u00e9 um passo importante para aprender a andar. \r\n\r\nTalvez seu beb\u00ea comece a engatinhar entre os 6 e 9 meses. Isso significa que, quando completar 1 ano, ele provavelmente vai estar engatinhando bem.   \r\n\r\nMas nem todos os beb\u00eas engatinham. Talvez seu beb\u00ea prefira se arrastar de um lado para o outro sentado, em vez de engatinhar. Ou talvez ele goste de se arrastar de barriga no ch\u00e3o.    \r\n\r\nAlguns beb\u00eas n\u00e3o engatinham. Eles passam direto para tentar ficar em p\u00e9 segurando num m\u00f3vel, e depois aprendem a andar. O mais importante \u00e9 que seu beb\u00ea seja ativo, e n\u00e3o tanto a forma como ele se movimenta. \r\n\r\nCada beb\u00ea se desenvolve de uma maneira diferente. Se voc\u00ea est\u00e1 preocupada e acha que o seu beb\u00ea est\u00e1 demorando muito para engatinhar ou tentar andar, fale com o m\u00e9dico. \r\n", 
+  "source": "0d50ffb405474404baf7e9b040e94021", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "quando-o-meu-bebe-vai-engatinhar", 
+  "uuid": "5dedb060b4e74492a38decb5ea9084f6"
+}
