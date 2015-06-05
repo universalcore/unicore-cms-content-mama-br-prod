@@ -10,11 +10,14 @@
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "9860e49b04834edaa5c46539d4fdaee7", 
+    "e9b65fa697b04ebfad1b51a446232c81"
+  ], 
   "id": null, 
   "content": "Criado pelo BabyCenter\r\n\r\n\r\nTalvez seus amigos e parentes lhe ofere\u00e7am rem\u00e9dios e garrafadas, ou sugiram que voc\u00ea consulte algum tipo de curandeiro. Pode ser que voc\u00ea tenha usando este tipo de rem\u00e9dio antes, mas, agora que est\u00e1 gr\u00e1vida, voc\u00ea **precisa ter muito cuidado** com o que toma. \r\n\r\nEnquanto voc\u00ea estiver gr\u00e1vida ou amamentando, alguns rem\u00e9dios e  ervas podem fazer mal ao beb\u00ea. \r\n\r\nUma boa regra \u00e9 falar sempre com o m\u00e9dico antes de tomar qualquer tipo de rem\u00e9dio ou medicamento. Seu m\u00e9dico pode lhe dizer quais deles s\u00e3o seguros para voc\u00ea e seu beb\u00ea.  \r\n", 
   "source": "9c0e5df95af04092b359bb41af17a08d", 
