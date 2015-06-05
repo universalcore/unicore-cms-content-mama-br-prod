@@ -1,17 +1,17 @@
 {
   "subtitle": "Why do I need vitamins?", 
-  "description": "\r\nAs vitaminas deixam voc\u00ea em forma \r\n", 
+  "description": "As vitaminas deixam voc\u00ea em forma \r\n", 
   "language": "por_BR", 
   "title": "Por que preciso de vitaminas?", 
   "primary_category": "ac28a6b0b1bf4555a431fa585788d1eb", 
-  "created_at": "2015-05-28T13:45:09.032444+00:00", 
+  "created_at": "2015-05-28T13:45:09+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-05-28T13:45:09.032633+00:00", 
+  "modified_at": "2015-06-05T14:46:50.788820+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 59, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "Por_queprecisode_vitaminas2", 
   "uuid": "b601953b742b415195287e5dba29abf0"
