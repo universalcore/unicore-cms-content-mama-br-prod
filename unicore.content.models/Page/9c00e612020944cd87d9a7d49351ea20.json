@@ -4,14 +4,14 @@
   "language": "por_BR", 
   "title": "Aprenda a enrolar o beb\u00ea em um cueiro", 
   "primary_category": "9bd14ebe21394b81bc2a1bd8a850ba85", 
-  "created_at": "2015-05-29T11:21:29.198599+00:00", 
+  "created_at": "2015-05-29T11:21:29+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-05-29T11:21:29.198952+00:00", 
+  "modified_at": "2015-06-05T19:15:21.897457+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 25, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "aprenda-enrolar-o-bebe-em-um-cueiro", 
   "uuid": "9c00e612020944cd87d9a7d49351ea20"
