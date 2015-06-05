@@ -10,11 +10,15 @@
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "5d0abf52450d4b0e9c69026f10edac8e", 
+    "67782eacfc214d11b86a5d3a25bfa513", 
+    "e64d188ed5cb4af5ad841e112d21d48b"
+  ], 
   "id": null, 
   "content": "Criado pelo BabyCenter\r\n\r\nSe voc\u00ea tem o v\u00edrus HIV, n\u00e3o est\u00e1 sozinha; muitas gr\u00e1vidas t\u00eam HIV. Voc\u00ea pode evitar que o v\u00edrus passe para o beb\u00ea fazendo o tratamento certo durante a gravidez.  \r\n\r\nSe voc\u00ea ainda n\u00e3o fez o teste para o HIV, pode fazer em um posto de sa\u00fade. S\u00f3 voc\u00ea ficar\u00e1 sabendo o resultado. Mas voc\u00ea pode levar uma amiga para lhe dar apoio. \r\n\r\nSe o primeiro teste de HIV for negativo, talvez seu m\u00e9dico lhe ofere\u00e7a outro exame no fim da gravidez. Se for poss\u00edvel, fa\u00e7a esse exame. Voc\u00ea pode evitar que o v\u00edrus seja transmitido ao beb\u00ea fazendo o tratamento certo.  \r\n\r\nDescobrir que se tem o v\u00edrus HIV pode ser assustador. Voc\u00ea vai precisar de tempo para aceitar a not\u00edcia. Lembre-se de que ningu\u00e9m pode ver que voc\u00ea tem o HIV, e que h\u00e1 muitas gr\u00e1vidas que t\u00eam o v\u00edrus. Os medicamentos certos ajudam a evitar que o v\u00edrus seja transmitido para o beb\u00ea. H\u00e1 postos de sa\u00fade que d\u00e3o os medicamentos de gra\u00e7a.  \r\n\r\nVoc\u00ea pode ter uma vida normal se tomar todos os medicamentos e se cuidar. \r\n\r\nVoc\u00ea ter\u00e1 que tomar medicamentos anti-retrovirais. Eles ajudam voc\u00ea a ter uma vida saud\u00e1vel e tamb\u00e9m ajudam a garantir que o v\u00edrus HIV n\u00e3o passe para o beb\u00ea. \r\n\r\nSe voc\u00ea tem HIV, seu beb\u00ea tamb\u00e9m ter\u00e1 que tomar anti-retrovirais durante as primeiras 6 semanas de vida. \r\n", 
   "source": "b62ddc38f55f440e8482f85c1096fa6b", 
