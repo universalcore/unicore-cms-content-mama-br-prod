@@ -1,17 +1,17 @@
 {
   "subtitle": "I have pain in my belly ", 
   "description": "Saiba quando a dor na barriga \u00e9 preocupante", 
-  "language": "por_BR", 
+  "language": "por_PT", 
   "title": "Minha barriga d\u00f3i ", 
   "primary_category": "ac28a6b0b1bf4555a431fa585788d1eb", 
   "created_at": "2015-05-28T10:59:49+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-06-01T08:58:40.683809+00:00", 
+  "modified_at": "2015-10-16T11:50:20.226120+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
