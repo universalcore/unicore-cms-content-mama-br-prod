@@ -1,17 +1,17 @@
 {
   "subtitle": "How to cut your baby's cord", 
   "description": "Use instrumentos limpos", 
-  "language": "por_BR", 
+  "language": "por_PT", 
   "title": "Como cortar o cord\u00e3o umbilical do beb\u00ea ", 
   "primary_category": "9bd14ebe21394b81bc2a1bd8a850ba85", 
   "created_at": "2015-05-28T14:08:10+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-06-08T07:43:12.216945+00:00", 
+  "modified_at": "2015-10-16T12:32:27.812014+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
