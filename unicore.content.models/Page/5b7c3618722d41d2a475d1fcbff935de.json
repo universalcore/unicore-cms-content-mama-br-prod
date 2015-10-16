@@ -6,16 +6,15 @@
   "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
   "created_at": "2015-05-13T08:48:32+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-05-26T07:45:48.772383+00:00", 
+  "modified_at": "2015-10-16T12:20:10.591793+00:00", 
   "_version": {
     "package_version": "1.0.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
-    "bd7e34ca95634c749f1db185b602fcdc", 
     "274466875ef146658c3bc96cdf8efb04", 
     "e0785636e9374173844d77b753347701", 
     "cc7021bef74044a4961a18cd6ab45ec6"
@@ -27,7 +26,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 82, 
+  "position": 183, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "birth-your-baby", 
   "uuid": "5b7c3618722d41d2a475d1fcbff935de"
