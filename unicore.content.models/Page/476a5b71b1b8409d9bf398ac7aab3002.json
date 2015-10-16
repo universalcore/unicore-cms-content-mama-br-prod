@@ -6,16 +6,15 @@
   "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
   "created_at": "2015-05-13T08:46:37+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-05-26T07:45:49.035157+00:00", 
+  "modified_at": "2015-10-16T12:19:08.652187+00:00", 
   "_version": {
     "package_version": "1.0.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
-    "bd7e34ca95634c749f1db185b602fcdc", 
     "52de8784b3cb436ca85ceadb10b4f4b2", 
     "28f9d202fd0a4fedae6aa67b411aacf9", 
     "9b6760556396401b921530490e2b2c14", 
@@ -29,7 +28,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 87, 
+  "position": 188, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "how-do-i-know-i-am-labour", 
   "uuid": "476a5b71b1b8409d9bf398ac7aab3002"
