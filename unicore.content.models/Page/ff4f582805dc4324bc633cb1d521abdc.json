@@ -10,11 +10,15 @@
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "35f64dd0fac94b9585344bcb5b44a2ea", 
+    "c72db3dabcdd497b9a2282e75d6c8c7f", 
+    "8fc819f11d76400e8f4a7adcf68c2f57"
+  ], 
   "id": null, 
   "content": "Criado pelo BabyCenter\r\n\r\nSe este \u00e9 seu primeiro filho, o parto pode demorar umas 8 horas. Mas tamb\u00e9m pode ser bem mais r\u00e1pido ou bem mais demorado. Dificilmente o parto vai durar mais de 18 horas. Uma vez que o colo do \u00fatero se abra completamente, voc\u00ea pode passar 1 ou 2 horas fazendo for\u00e7a para o beb\u00ea nascer.  \r\n\r\nSe voc\u00ea teve beb\u00ea antes, o parto provavelmente ser\u00e1 mais r\u00e1pido desta vez. \u00c9 comum que dure umas 5 horas. Dificilmente vai levar mais de 12 horas. Quando chegar o momento de fazer for\u00e7a, o beb\u00ea pode nascer em 10 minutos. Mas todo parto \u00e9 diferente. Mesmo que voc\u00ea j\u00e1 tenha tido um beb\u00ea antes, pode se surpreender com a rapidez, ou com a demora, do parto esta vez. \r\n\r\nTente se manter na vertical e se movimentar bastante durante o parto, para que ele avance mais r\u00e1pido. \r\n\r\nDepois que o beb\u00ea nasce, seu corpo expulsa a placenta. Isso normalmente demora de 5 a 15 minutos. \u00c0s vezes, leva at\u00e9 1 hora. \r\n\r\nEm raras ocasi\u00f5es, o parto pode ser muito r\u00e1pido. A chance de que isso aconte\u00e7a \u00e9 maior se voc\u00ea j\u00e1 deu \u00e0 luz antes. \u00c9 importante confiar no seu instinto e prestar aten\u00e7\u00e3o no que o seu corpo est\u00e1 lhe dizendo, assim voc\u00ea pode procurar ajuda a tempo. Alguns beb\u00eas n\u00e3o esperam! \r\n", 
   "source": "52de8784b3cb436ca85ceadb10b4f4b2", 
