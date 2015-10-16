@@ -1,17 +1,17 @@
 {
   "subtitle": "Are swollen feet normal? ", 
   "description": "Isso \u00e9 comum na gravidez", 
-  "language": "por_BR", 
+  "language": "por_PT", 
   "title": "Por que meus p\u00e9s est\u00e3o inchados?", 
   "primary_category": "ac28a6b0b1bf4555a431fa585788d1eb", 
   "created_at": "2015-05-28T10:55:39+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-06-01T08:55:55.970430+00:00", 
+  "modified_at": "2015-10-16T11:48:53.323858+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
