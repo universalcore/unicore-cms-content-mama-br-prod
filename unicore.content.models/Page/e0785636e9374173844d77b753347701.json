@@ -6,20 +6,17 @@
   "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
   "created_at": "2015-05-13T08:49:55+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-05-26T07:45:48.810094+00:00", 
+  "modified_at": "2015-10-16T12:20:46.277339+00:00", 
   "_version": {
     "package_version": "1.0.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
-    "bd7e34ca95634c749f1db185b602fcdc", 
-    "3594bd19ac944de3bf4c2070c38d1645", 
     "54182910f65042ae9e7543d39b443738", 
     "0c67867587bd491ba01c7ce1df06d94b", 
-    "7f12fa0721e8414aaf6a854e8780efc1", 
     "5b7c3618722d41d2a475d1fcbff935de"
   ], 
   "id": null, 
@@ -29,7 +26,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 81, 
+  "position": 182, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "danger-signs-birth", 
   "uuid": "e0785636e9374173844d77b753347701"
