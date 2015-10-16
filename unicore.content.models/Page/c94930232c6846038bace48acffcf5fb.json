@@ -1,17 +1,17 @@
 {
   "subtitle": "Why do I need minerals?", 
   "description": "Os sais minerais ajudam o beb\u00ea a crescer bem", 
-  "language": "por_BR", 
+  "language": "por_PT", 
   "title": "Por que preciso de sais minerais?", 
   "primary_category": "ac28a6b0b1bf4555a431fa585788d1eb", 
   "created_at": "2015-05-28T13:46:07+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-06-08T07:37:00.219857+00:00", 
+  "modified_at": "2015-10-16T12:00:52.994773+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
