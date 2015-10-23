@@ -1,17 +1,17 @@
 {
   "subtitle": "How can I protect my baby from worms", 
   "description": "Prepare um lugar limpo para ele brincar ", 
-  "language": "por_BR", 
+  "language": "por_PT", 
   "title": "Como posso evitar que meu beb\u00ea pegue vermes?  ", 
   "primary_category": "9bd14ebe21394b81bc2a1bd8a850ba85", 
   "created_at": "2015-05-29T11:45:05+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-06-05T19:22:06.477705+00:00", 
+  "modified_at": "2015-10-23T08:19:16.829169+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
