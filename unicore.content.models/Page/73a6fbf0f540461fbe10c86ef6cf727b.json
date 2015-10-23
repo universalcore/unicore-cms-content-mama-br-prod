@@ -10,11 +10,14 @@
   "_version": {
     "package_version": "1.0.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "b965eaf8eb164b36bb37419ae978a570", 
+    "13f51172cb624c6b915ab04db0877238"
+  ], 
   "id": null, 
   "content": "Created by BabyCenter\r\n\r\nTetanus is a serious disease and is dangerous for both pregnant women and newborn babies. You should get immunized so that you and your baby do not get tetanus.\r\n\r\nYou can get tetanus through a deep wound, a cut or a burn. Giving birth puts you and your baby at risk of tetanus. Having a tetanus vaccination can protect you both. \r\n\r\nYou can get a tetanus vaccination at a posto de sa\u00fade. Ask your doctor about it. You will need 3 shots every 2 months, or only 1 if you have your immunization card with proof of the previous shots. \r\n\r\nYou will get the vaccination by injection. Your arm may get a bit red and swollen where the needle was put in. You might feel a bit unwell, but it will not last long. Put something cold on your arm, if the area hurts, and get some rest.\r\n\r\nVaccinations will protect you from germs, but they do not work if you already have an illness. So get vaccinated when you are not sick. Do not wait until you are sick because then it is too late and vaccination will not help you.\r\n\r\n", 
   "source": null, 
