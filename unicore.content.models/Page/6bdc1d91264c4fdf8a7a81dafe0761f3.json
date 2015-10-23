@@ -10,11 +10,14 @@
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "870ba0686f0c43ebbd4cbca8b8cff025", 
+    "d4d48f7b0f8b4e5b9172bffdd63e8a80"
+  ], 
   "id": null, 
   "content": "Criado pelo BabyCenter\r\n\r\nA limpeza \u00e9 importante, principalmente durante a gravidez. Manter o corpo limpo protege voc\u00ea de germes que podem causar infec\u00e7\u00f5es. Isso diminui seu risco de ficar doente. \r\n\r\nVeja o que voc\u00ea pode fazer para estar sempre limpa:  \r\n\r\n\u2022\tLave as m\u00e3os com sab\u00e3o. \u00c9 uma maneira f\u00e1cil de eliminar os germes que causam a diarreia. Lave as m\u00e3os ao chegar em casa, antes de cozinhar e comer, depois de ir ao banheiro e depois de lidar com animais. Voc\u00ea precisa de \u00e1gua limpa e sab\u00e3o ou sabonete. Lave bem os pulsos, m\u00e3os e unhas. Enx\u00e1gue bem as m\u00e3os com \u00e1gua limpa. \r\n\r\n\u2022\tSempre que voc\u00ea for ao banheiro, limpe-se bem. Lave-se da frente para atr\u00e1s. Depois lave imediatamente as m\u00e3os com \u00e1gua e sab\u00e3o. \r\n\r\n\u2022\tUse calcinha e roupa de baixo de algod\u00e3o, que deixa a pele respirar. E beba muita \u00e1gua limpa e tratada (fervida ou filtrada). Isso ajuda a prevenir infec\u00e7\u00f5es urin\u00e1rias.  \r\n\r\n\u2022\tLave o corpo todo com frequ\u00eancia. Tomar banho regularmente deixa o corpo saud\u00e1vel e diminui a chance de pegar doen\u00e7as.\r\n", 
   "source": "421cfaa3657c4b21bf8fcfb58f8730bf", 
