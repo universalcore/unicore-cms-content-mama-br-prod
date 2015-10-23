@@ -10,11 +10,15 @@
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "d959e28e28284b5d99978c03629df9cf", 
+    "204581f59e6c448386a02e95f71c712b", 
+    "c2fdd07d13724c93945e85d5f4003542"
+  ], 
   "id": null, 
   "content": "Criado pelo BabyCenter\r\n\r\nSe o seu beb\u00ea est\u00e1 com diarreia, ele precisa repor o l\u00edquido que est\u00e1 perdendo; se n\u00e3o, pode ficar desidratado. A desidrata\u00e7\u00e3o acontece quando o corpo n\u00e3o tem uma quantidade suficiente de l\u00edquidos para continuar funcionando bem. Continue oferecendo o peito e deixe o beb\u00ea mamar sempre que ele quiser. \r\n\r\nN\u00e3o d\u00ea suco de fruta, refrigerantes ou bebidas a\u00e7ucaradas ao beb\u00ea. Esse tipo de bebida pode fazer a diarreia piorar. \r\n\r\n**Se o beb\u00ea tem menos de 6 meses**, ele n\u00e3o precisa de \u00e1gua. O seu leite tem tudo o que ele precisa.  \r\n\r\n**Se o beb\u00ea tem mais de 6 meses**, ofere\u00e7a pequenos goles de \u00e1gua limpa e tratada (fervida ou filtrada) entre as refei\u00e7\u00f5es. Se puder, tente dar a ele pequenos goles de soro preparado com um envelope de solu\u00e7\u00e3o de reidrata\u00e7\u00e3o oral, v\u00e1rias vezes por hora. Este envelope cont\u00e9m um p\u00f3 que voc\u00ea vai dissolver em um litro de \u00e1gua limpa, fervida e fria. Voc\u00ea pode conseguir esses envelopes em postos de sa\u00fade e farm\u00e1cias. Depois de pronto, voc\u00ea pode guardar o soro por 8 a 12 horas. D\u00ea ao seu beb\u00ea 15 a 20 colheres de ch\u00e1 de soro cada vez que ele fizer coc\u00f4 l\u00edquido. D\u00ea essas colheres de soro aos poucos, ao longo de meia hora. \r\n\r\nLeve o beb\u00ea ao m\u00e9dico o quanto antes se:\r\n\r\n\u2022\tele est\u00e1 com diarreia h\u00e1 mais de 1 dia  \r\n\r\n\u2022\tele est\u00e1 com os l\u00e1bios ou a pele seca  \r\n\r\n\u2022\tele est\u00e1 fazendo xixi amarelo escuro e est\u00e1 fazendo menos xixi que o normal \r\n\r\n\u2022\ta moleira no alto da cabe\u00e7a do beb\u00ea est\u00e1 mais funda  \r\n\r\n\u2022\tele se recusa a beber, tem sangue nas fezes ou est\u00e1 com a barriga inchada  \r\n\r\n\u2022\tele est\u00e1 vomitando h\u00e1 mais de um dia, ou est\u00e1 com febre h\u00e1 mais de um dia \r\n", 
   "source": "b82d95b2361f4a23ba0554be01d4bc67", 
