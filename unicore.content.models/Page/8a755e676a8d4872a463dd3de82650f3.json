@@ -6,16 +6,15 @@
   "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
   "created_at": "2015-05-13T08:28:44+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-05-26T07:45:48.716549+00:00", 
+  "modified_at": "2015-10-23T22:00:49.390383+00:00", 
   "_version": {
     "package_version": "1.0.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
-    "bd7e34ca95634c749f1db185b602fcdc", 
     "33be5437935c46058f96354e195e8213", 
     "462b89e6b77c4b2e85ef22e621111e8a", 
     "50f17243ffac4a70a3811f69f81213e4", 
@@ -28,7 +27,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 123, 
+  "position": 224, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "my-sister-had-fits", 
   "uuid": "8a755e676a8d4872a463dd3de82650f3"
