@@ -10,11 +10,14 @@
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "9860e49b04834edaa5c46539d4fdaee7", 
+    "e9b65fa697b04ebfad1b51a446232c81"
+  ], 
   "id": null, 
   "content": "Criado pelo BabyCenter\r\n\r\nO t\u00e9tano \u00e9 uma doen\u00e7a s\u00e9ria e perigosa, tanto para a gr\u00e1vida como para o rec\u00e9m-nascido. Voc\u00ea deve se vacinar para que nem voc\u00ea nem o beb\u00ea peguem t\u00e9tano.  \r\n\r\nVoc\u00ea pode pegar t\u00e9tano atrav\u00e9s de uma ferida profunda, um corte ou uma queimadura. O parto \u00e9 uma das situa\u00e7\u00f5es de risco para o t\u00e9tano. A vacina protege voc\u00eas dois.   \r\n\r\nVoc\u00ea pode tomar a vacina antitet\u00e2nica em um posto de sa\u00fade. Pergunte ao seu m\u00e9dico. Voc\u00ea precisar\u00e1 de 3 doses, aplicadas de 2 em 2 meses, ou apenas uma, se voc\u00ea tiver sua carteirinha de vacina\u00e7\u00e3o mostrando que tomou as doses anteriores. \r\n\r\nA vacina \u00e9 uma inje\u00e7\u00e3o. Seu bra\u00e7o pode ficar um pouco avermelhado e inchado no local da aplica\u00e7\u00e3o. Talvez voc\u00ea se sinta um pouco indisposta, mas essa sensa\u00e7\u00e3o n\u00e3o vai durar muito. Coloque alguma coisa fria no local da picada e procure descansar.  \r\n\r\nAs vacinas protegem voc\u00ea dos germes que causam doen\u00e7as, mas elas n\u00e3o funcionam se voc\u00ea j\u00e1 estiver doente. Por isso \u00e9 importante se vacinar quando voc\u00ea estiver bem. N\u00e3o espere at\u00e9 ficar doente porque a\u00ed ser\u00e1 tarde demais e a vacina n\u00e3o vai adiantar. \r\n", 
   "source": "73a6fbf0f540461fbe10c86ef6cf727b", 
