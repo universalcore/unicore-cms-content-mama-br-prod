@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "95e70694e9db4955a9105a25fab64adc"
+  ], 
   "id": null, 
   "content": "Criado pelo BabyCenter\r\n\r\n\r\nVacinar o beb\u00ea \u00e9 uma das melhores coisas que voc\u00ea pode fazer como m\u00e3e.\r\n\r\nNa primeira consulta m\u00e9dica, pe\u00e7a a carteirinha de vacina\u00e7\u00e3o do beb\u00ea. Cuide para n\u00e3o perd\u00ea-la, e leve a caderneta a todas as consultas do beb\u00ea.\r\n\r\nLembre-se: voc\u00ea e seu beb\u00ea precisam tomar as vacinas quando est\u00e3o saud\u00e1veis e n\u00e3o est\u00e3o doentes. A vacina n\u00e3o funciona para curar uma pessoa que j\u00e1 esteja doente.\r\n\r\nDepois de imunizados, voc\u00ea e seu beb\u00ea ficam protegidos contra doen\u00e7as graves, caso entrem em contato com elas. Se voc\u00ea j\u00e1 est\u00e1 doente, voc\u00ea n\u00e3o pode tomar a vacina. Por isso voc\u00ea precisa aproveitar que est\u00e1 bem para ser vacinada. \r\n\r\nAs vacinas ajudam seu beb\u00ea a combater algumas das doen\u00e7as mais perigosas. Isso protege voc\u00eas dois do sofrimento e da dor de ficar doente. Nenhuma m\u00e3e quer ver seu beb\u00ea doente. \r\n\r\nSeu beb\u00ea precisa receber as vacinas enquanto est\u00e1 saud\u00e1vel, e \u00e9 importante dar as vacinas na \u00e9poca certa. \r\n\r\nO beb\u00ea precisa de mais de 1 dose de algumas vacinas. Se voc\u00ea quer saber quais s\u00e3o as vacinas que seu beb\u00ea precisa tomar e com que idade, fale com o m\u00e9dico ou pergunte no posto de sa\u00fade. \r\n", 
   "source": "fbd60b82a20a42f3876c846d936a1a53", 
