@@ -6,19 +6,19 @@
   "primary_category": "ac28a6b0b1bf4555a431fa585788d1eb", 
   "created_at": "2015-05-28T11:27:46+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-10-23T08:41:23.262118+00:00", 
+  "modified_at": "2015-12-11T14:34:02.459337+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
+    "bac5a9d8aa4f42268e843e4b555ff648", 
     "70d0f86670314ee5ad12ee315e173696", 
     "0c47c4bbbd764848af9d122978b2d0c2", 
     "73759cc90e7b4a909f4288565e2882ca", 
-    "bac5a9d8aa4f42268e843e4b555ff648", 
     "6bdc1d91264c4fdf8a7a81dafe0761f3", 
     "d4d48f7b0f8b4e5b9172bffdd63e8a80"
   ], 
@@ -29,7 +29,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 79, 
+  "position": 80, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "por-que-preciso-lavar-maos", 
   "uuid": "870ba0686f0c43ebbd4cbca8b8cff025"
