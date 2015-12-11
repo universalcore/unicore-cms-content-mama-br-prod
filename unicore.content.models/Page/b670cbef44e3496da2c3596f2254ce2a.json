@@ -6,18 +6,18 @@
   "primary_category": "9bd14ebe21394b81bc2a1bd8a850ba85", 
   "created_at": "2015-05-28T14:06:40+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-10-23T08:28:49.398104+00:00", 
+  "modified_at": "2015-12-11T14:33:53.239455+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
+    "d959e28e28284b5d99978c03629df9cf", 
     "d2d64ca776b347a59e15044b430b3d8a", 
-    "5cd2ae1bcd364db1a82b09711fabd6a6", 
-    "d959e28e28284b5d99978c03629df9cf"
+    "5cd2ae1bcd364db1a82b09711fabd6a6"
   ], 
   "id": null, 
   "content": "Criado pelo BabyCenter\r\n\r\n\r\n\u00c9 importante manter o beb\u00ea aquecido logo que ele nasce. Os beb\u00eas n\u00e3o conseguem se adaptar \u00e0 temperatura mais baixa de fora do \u00fatero e podem perder calor rapidamente. \r\n\r\nO beb\u00ea vai estar molhado quando nascer, e \u00e9 muito importante que ele fique bem sequinho. \r\n\r\nN\u00e3o \u00e9 necess\u00e1rio dar banho no beb\u00ea logo depois do parto. Limpe somente o cord\u00e3o umbilical. Ele n\u00e3o precisa tomar banho nas primeiras 6 horas de vida. Dar banho cedo demais pode deixar o beb\u00ea doente e com frio. \r\n\r\nPe\u00e7a ao m\u00e9dico ou \u00e0 pessoa que est\u00e1 cuidando do seu parto para colocar o beb\u00ea sobre o seu peito, sem roupa. O calor do seu corpo ajuda a evitar que o corpo do beb\u00ea esfrie demais. Segure-o com firmeza para que ele n\u00e3o escorregue e caia.  \r\n\r\nColoque uma manta limpa e quentinha em cima de voc\u00eas dois. Isso ajuda a reter o calor. Voc\u00ea pode fazer um \"sling\" amarrando o beb\u00ea em volta do seu corpo com uma faixa para que ele fique protegido. Se puder, coloque tamb\u00e9m um gorro ou touca na cabe\u00e7a do beb\u00ea. Os beb\u00eas perdem muito calor pela cabe\u00e7a.  \r\n\r\nSegurar o beb\u00ea bem perto de voc\u00ea, em contato com a sua pele, n\u00e3o s\u00f3 d\u00e1 calor a ele, mas tamb\u00e9m ajuda voc\u00eas a se conhecerem melhor. Agora voc\u00ea pode ver de perto quem passou esses \u00faltimos meses chutando a sua barriga! Al\u00e9m disso, quando voc\u00ea segura o beb\u00ea assim, fica mais f\u00e1cil para ele pegar seu seio e mamar. \r\n", 
@@ -26,7 +26,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 43, 
+  "position": 44, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "como-faco-para-manter-o-bebe-aquecido", 
   "uuid": "b670cbef44e3496da2c3596f2254ce2a"
