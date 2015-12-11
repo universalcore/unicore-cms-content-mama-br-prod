@@ -6,12 +6,12 @@
   "primary_category": "ac28a6b0b1bf4555a431fa585788d1eb", 
   "created_at": "2015-05-28T13:48:18+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-10-23T08:56:22.449407+00:00", 
+  "modified_at": "2015-12-11T14:33:56.782268+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -27,7 +27,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 56, 
+  "position": 57, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "onde-meu-bebe-vai-nascer", 
   "uuid": "aa4074aa7def4a7c9e06448a8b1d506c"
