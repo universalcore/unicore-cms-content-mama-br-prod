@@ -6,12 +6,12 @@
   "primary_category": "ac28a6b0b1bf4555a431fa585788d1eb", 
   "created_at": "2015-05-28T13:59:44+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-10-23T08:58:18.885244+00:00", 
+  "modified_at": "2015-12-11T14:33:54.057789+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -29,7 +29,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 46, 
+  "position": 47, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "sinais-de-perigo-na-hora-do-parto", 
   "uuid": "b32d1459ec674ef5a6458ef1711aee6d"
