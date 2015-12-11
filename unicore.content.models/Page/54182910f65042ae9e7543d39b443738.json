@@ -6,19 +6,19 @@
   "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
   "created_at": "2015-05-13T08:53:13+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-10-29T10:34:16.580941+00:00", 
+  "modified_at": "2015-12-11T14:34:25.213845+00:00", 
   "_version": {
     "package_version": "1.0.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
-    "d22ba66bd27741adacac40f12ec66eb5", 
-    "0c67867587bd491ba01c7ce1df06d94b", 
     "23036592c9a64d3f8abccb3bdd8ba54a", 
-    "b9d6702b38f2424fab05680affe226cd"
+    "b9d6702b38f2424fab05680affe226cd", 
+    "d22ba66bd27741adacac40f12ec66eb5", 
+    "0c67867587bd491ba01c7ce1df06d94b"
   ], 
   "id": null, 
   "content": "Created by BabyCenter\r\n\r\nWhen your baby is born, he is attached to you by a cord, which needs to be cut. If you give birth at a casa de parto, the cord will be cut in a hygienic way that does not cause infections. \r\n\r\nIf you cannot have your baby in a casa de parto, you must plan how to take care of the baby\u2019s cord.\r\n\r\nTalk to the person who is helping you to give birth, so they know what to do when the time comes.\r\n\r\nThe birth attendant should have a birth kit ready. If you do not have a birth kit, then you will need a clean sheet to have your baby on, 2 pieces of clean string and 2 cloths: one to dry your baby and one to wrap her in, and a clean, sharp knife or a clean pair of scissors.\r\n\r\nBoil the knife for 10 minutes and the string for 3 minutes to clean them, just before you use them.\r\n\r\nHave clean, safe water and soap ready, so the birth attendant can wash her hands very carefully before she cuts the cord.\r\n\r\nWait until the cord stops pulsing. Then, tie the 2 pieces of string round the cord. One tie should be about the length of your hand away from your baby's tummy. The other, about 3 fingers away from the first tie. Cut the cord in between the 2 ties. \r\n\r\nKeep the baby's cord stump clean and dry until it drops off.\r\n\r\n", 
@@ -27,7 +27,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 43, 
+  "position": 179, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "how-cut-your-babys-cord", 
   "uuid": "54182910f65042ae9e7543d39b443738"
