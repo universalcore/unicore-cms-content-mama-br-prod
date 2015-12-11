@@ -1,0 +1,20 @@
+{
+  "subtitle": "POR_staying healthy", 
+  "uuid": "56ffc470f57740a1acef1b6dba067524", 
+  "language": "por_PT", 
+  "title": "Cuide da sua sa\u00fade", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 17:58:13) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "cuide-da-sua-saude", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}
