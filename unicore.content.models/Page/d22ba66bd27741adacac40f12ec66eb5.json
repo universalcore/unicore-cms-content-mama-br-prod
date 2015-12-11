@@ -6,18 +6,18 @@
   "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
   "created_at": "2015-05-13T08:53:53+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-10-29T10:34:16.448786+00:00", 
+  "modified_at": "2015-12-11T14:34:24.952410+00:00", 
   "_version": {
     "package_version": "1.0.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
-    "54182910f65042ae9e7543d39b443738", 
     "7546baf0ac8e41fca0361e4a1b6ccd91", 
-    "23036592c9a64d3f8abccb3bdd8ba54a"
+    "23036592c9a64d3f8abccb3bdd8ba54a", 
+    "54182910f65042ae9e7543d39b443738"
   ], 
   "id": null, 
   "content": "Created by BabyCenter\r\n\r\nKeep your baby's cord stump clean and dry until it drops off. Do not put anything on it. The cord will heal by itself and will drop off in about a week. It will look quite black and odd but that is part of the healing.\r\n\r\nIf the cord stump is red, sore, or smelly, take your baby to a doctor.\r\n\r\nIf your baby\u2019s cord stump gets dirty, it could become infected. Infections are very dangerous to young babies. Keep the cord stump clean and dry.\r\n\r\nYour family may suggest that you put other substances on the stump to help it heal. Do not let them do this. It is dangerous. Explain that keeping it clean and dry is safest for your baby. \r\n\r\nAfter washing your baby, simply pat the cord area dry with a clean towel. If you are in a casa de parto, they may give you something, such as alcohol 70, to clean the cord with. \r\n\r\nThe cord will heal gradually and drop off in a few days. Do not pull on it. Let it fall off naturally.\r\n\r\nIf the cord stump is red, sore, and smelly or oozes pus, or your baby gets an infection, there is an infection. Show your baby to the doctor as soon as you can.\r\n\r\nThe best thing you can do for your baby is to keep the cord stump clean and dry.\r\n\r\n", 
@@ -26,7 +26,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 42, 
+  "position": 178, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "how-care-your-babys-cord", 
   "uuid": "d22ba66bd27741adacac40f12ec66eb5"
