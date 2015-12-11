@@ -3,15 +3,15 @@
   "description": "Eles ajudam a manter voc\u00ea saud\u00e1vel ", 
   "language": "por_PT", 
   "title": "Por que preciso fazer exames regularmente?", 
-  "primary_category": "ac28a6b0b1bf4555a431fa585788d1eb", 
+  "primary_category": "56ffc470f57740a1acef1b6dba067524", 
   "created_at": "2015-05-28T08:33:20+00:00", 
-  "featured_in_category": false, 
-  "modified_at": "2015-10-23T08:35:26.538050+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-12-11T14:33:41.485080+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -27,7 +27,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 96, 
+  "position": 2, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "por-que-preciso-fazer-exames-regularmente", 
   "uuid": "9860e49b04834edaa5c46539d4fdaee7"
