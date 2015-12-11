@@ -3,15 +3,15 @@
   "description": "Sim. Todas as drogas podem causar problemas para voc\u00ea e para seu beb\u00ea ", 
   "language": "por_PT", 
   "title": "As drogas podem fazer mal ao meu beb\u00ea?", 
-  "primary_category": "ac28a6b0b1bf4555a431fa585788d1eb", 
+  "primary_category": "56ffc470f57740a1acef1b6dba067524", 
   "created_at": "2015-05-28T11:54:58+00:00", 
-  "featured_in_category": false, 
-  "modified_at": "2015-10-23T08:54:36.391127+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-12-11T14:33:38.215785+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 65, 
+  "position": 0, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "drogas-podem-fazer-mal-ao-meu-bebe", 
   "uuid": "5b88574558314b8990633dcd8d7d8cf9"
