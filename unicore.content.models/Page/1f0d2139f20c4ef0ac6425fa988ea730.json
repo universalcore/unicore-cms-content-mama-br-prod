@@ -6,17 +6,17 @@
   "primary_category": "9bd14ebe21394b81bc2a1bd8a850ba85", 
   "created_at": "2015-05-29T11:20:14+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-10-23T08:21:35.983409+00:00", 
+  "modified_at": "2015-12-11T14:33:48.579926+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
-    "8ad67fc0bace4a6f80dd871573a01a14", 
-    "b3d3bdbbf6d640c1ac14fa2b323b3c42"
+    "b3d3bdbbf6d640c1ac14fa2b323b3c42", 
+    "8ad67fc0bace4a6f80dd871573a01a14"
   ], 
   "id": null, 
   "content": "Criado pelo BabyCenter\r\n \r\n\r\nTalvez voc\u00ea prefira carregar o beb\u00ea sempre com voc\u00ea e deix\u00e1-lo dormir quando quiser. Ou talvez voc\u00ea queira ajudar o seu beb\u00ea a dormir no fim do dia. Tudo depende da rotina da sua fam\u00edlia. Fa\u00e7a o que funciona melhor em fun\u00e7\u00e3o das suas atividades e hor\u00e1rios. \r\n\r\nSe voc\u00ea quer ajudar seu beb\u00ea a pegar no sono \u00e0 noite, tente o seguinte: \r\n\r\n\u2022\tA forma de fazer o beb\u00ea dormir \u00e9 importante. Se nas primeiras 8 semanas voc\u00ea embala o beb\u00ea no colo todas as noites, ele vai esperar que voc\u00ea continue fazendo isso. Se voc\u00ea deix\u00e1-lo tentar pegar no sono sozinho, ele tamb\u00e9m vai se acostumar a dormir assim. \r\n\r\n\u2022\tProcure a melhor rotina para voc\u00ea e seu beb\u00ea, e siga-a! Repita todas as noites a mesma rotina para que o beb\u00ea se acostume. \r\n\r\n\u2022\tQuando o beb\u00ea tiver de 6 a 8 semanas, voc\u00ea pode come\u00e7ar a ensin\u00e1-lo a pegar no sono sozinho. Coloque o beb\u00ea na cama quando ele estiver sonolento, mas ainda acordado. Fique do lado dele se quiser.\r\n\r\n\u2022\tDurante as mamadas noturnas, fique em sil\u00eancio. Mantenha o quarto escuro e n\u00e3o fale muito com o beb\u00ea. N\u00e3o deve demorar para que ele entenda que as noites s\u00e3o para dormir. \r\n\r\n\u2022\tNas primeiras semanas, talvez voc\u00ea note que enrolar o beb\u00ea em uma mantinha ou cueiro o ajuda a pegar no sono. \r\n\r\n", 
@@ -25,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 26, 
+  "position": 27, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "como-ajudo-meu-bebe-pegar-no-sono", 
   "uuid": "1f0d2139f20c4ef0ac6425fa988ea730"
