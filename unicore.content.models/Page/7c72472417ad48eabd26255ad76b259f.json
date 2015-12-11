@@ -6,12 +6,12 @@
   "primary_category": "9bd14ebe21394b81bc2a1bd8a850ba85", 
   "created_at": "2015-05-28T14:00:41+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-10-23T08:29:43.901406+00:00", 
+  "modified_at": "2015-12-11T14:33:53.773738+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -25,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 45, 
+  "position": 46, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "segure-seu-bebe-bem-perto-de-voce", 
   "uuid": "7c72472417ad48eabd26255ad76b259f"
