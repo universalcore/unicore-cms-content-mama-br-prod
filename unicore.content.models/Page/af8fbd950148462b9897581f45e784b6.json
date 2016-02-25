@@ -5,13 +5,13 @@
   "title": "9\u00ba m\u00eas", 
   "primary_category": "ac28a6b0b1bf4555a431fa585788d1eb", 
   "created_at": "2015-05-13T10:36:02+00:00", 
-  "featured_in_category": false, 
-  "modified_at": "2015-12-11T14:34:20.840995+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2016-02-25T09:40:26.504637+00:00", 
   "_version": {
     "package_version": "1.0.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -21,11 +21,11 @@
   "id": null, 
   "content": "Criado pelo BabyCenter\r\n\r\nSeu beb\u00ea pode nascer a qualquer momento! Dentro do \u00fatero, ele come\u00e7ou a perder os cabelos fininhos que cresceram na metade da gravidez. Ele tamb\u00e9m est\u00e1 perdendo aquela camada de \u201ccera\u201d que cobre sua pele e que serve para proteg\u00ea-lo enquanto flutua no l\u00edquido dentro do \u00fatero da mam\u00e3e.   \r\n\r\nSeu beb\u00ea est\u00e1 criando camadas de gordura por baixo da pele, e isso o ajudar\u00e1 a permanecer quentinho depois de nascer. Os rec\u00e9m-nascidos precisam de calor. A melhor maneira de manter seu beb\u00ea aquecido \u00e9 segurando-o bem perto do seu peito por debaixo da roupa.  \r\n\r\nPode ser que voc\u00ea se pergunte como vai saber quando o trabalho de parto come\u00e7ar. H\u00e1 tr\u00eas maneiras de saber que o parto come\u00e7ou:  \r\n\r\n1. Voc\u00ea pode perceber um corrimento com um pouco de sangue na calcinha. Isso \u00e9 sinal de que o trabalho de parto poderia come\u00e7ar em um ou dois dias.  \r\n\r\n2. Voc\u00ea pode ter contra\u00e7\u00f5es ou dores de parto que parecem c\u00f3licas de menstrua\u00e7\u00e3o. As contra\u00e7\u00f5es ficam mais fortes, mais regulares e mais dolorosas \u00e0 medida que o parto avan\u00e7a.  \r\n\r\n3. Voc\u00ea pode sentir que sai um jorro ou gotas de \u00e1gua pela vagina. Se isso acontecer, voc\u00ea deve ir diretamente ao hospital onde seu beb\u00ea vai nascer.  \r\n\r\nAprenda como chegar no hospital antes de que comece o trabalho de parto. Na hora do trabalho de parto voc\u00ea precisar\u00e1 dos cuidados de um m\u00e9dico ou parteira. \u00c9 bom voc\u00ea conferir se tem cr\u00e9dito no celular e dinheiro \u00e0 m\u00e3o para pegar um t\u00e1xi ou \u00f4nibus.\r\n\r\n", 
   "source": "b1a8a50ad67c40578a56ce1822077df3", 
-  "featured": true, 
+  "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 112, 
+  "position": 120, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "por-month-9", 
   "uuid": "af8fbd950148462b9897581f45e784b6"
