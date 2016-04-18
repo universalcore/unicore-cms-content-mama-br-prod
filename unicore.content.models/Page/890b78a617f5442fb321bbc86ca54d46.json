@@ -1,0 +1,29 @@
+{
+  "subtitle": "What is BabyCenter?", 
+  "description": "\r\nDamos aconselhamento  especializado sobre  gravidez e  beb\u00e9s. ", 
+  "language": "por_PT", 
+  "title": "O que \u00e9 o BabyCenter? ", 
+  "primary_category": "16cd424cd4f44ef998a70c199ee58f19", 
+  "created_at": "2016-04-18T12:16:39.190355+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2016-04-18T12:16:39.190748+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "\r\nNo BabyCenter ir\u00e1 ter a melhor informa\u00e7\u00e3o a respeito da gravidez e beb\u00e9s.\r\n \r\nMais de 45 milh\u00f5es de pais de todo o mundo recorrem ao nosso aconselhamento.\r\n\r\nQueremos que todas as mulheres gr\u00e1vidas e as suas fam\u00edlias sejam saud\u00e1veis. \r\n\r\nPode confiar na informa\u00e7\u00e3o do BabyCenter. Todos os nossos artigos s\u00e3o escritos por especialistas. Os especialistas desejam que voc\u00ea e o seu beb\u00e9 sejam saud\u00e1veis. \r\n\r\nAcreditamos que ao ajudar uma m\u00e3e, estamos tamb\u00e9m a ajudar os seus filhos, a sua fam\u00edlia, e a sua comunidade.\r\n \r\nDivirta-se como pai  BabyCenter!\r\n\r\nMais informa\u00e7\u00f5es \r\n\r\n[brasil.babycenter.com/][1]\r\n\r\n(Poder\u00e1 precisar de um plano de dados para ter acesso a este site)\r\n\r\n\r\n  [1]: http://brasil.babycenter.com/", 
+  "source": "7cf0f7a318674ba8b1a1114e3e60307f", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "989c1295b4834d4f9584684756afad53", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "o-que-e-o-babycenter", 
+  "uuid": "890b78a617f5442fb321bbc86ca54d46"
+}
