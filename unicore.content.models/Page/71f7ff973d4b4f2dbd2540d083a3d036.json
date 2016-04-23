@@ -6,12 +6,12 @@
   "primary_category": "9bd14ebe21394b81bc2a1bd8a850ba85", 
   "created_at": "2015-05-29T14:46:14+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-12-11T14:33:42.595282+00:00", 
+  "modified_at": "2016-04-23T11:08:17.918482+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -25,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 5, 
+  "position": 18, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "meu-bebe-consegue-segurar-objetos", 
   "uuid": "71f7ff973d4b4f2dbd2540d083a3d036"
