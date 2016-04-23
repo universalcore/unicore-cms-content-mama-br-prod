@@ -6,12 +6,12 @@
   "primary_category": "ac28a6b0b1bf4555a431fa585788d1eb", 
   "created_at": "2015-05-28T11:52:11+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-12-11T14:33:59.141466+00:00", 
+  "modified_at": "2016-04-23T11:08:00.197087+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -30,7 +30,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 67, 
+  "position": 29, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "devo-me-alimentar-diferente", 
   "uuid": "f9ffe33c7fbc463ea07440fbbd57e206"
